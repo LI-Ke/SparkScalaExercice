@@ -8,7 +8,7 @@ libraryDependencies += "org.apache.spark" %% "spark-core" % "2.3.1"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.3.1"
 libraryDependencies += "org.apache.spark" %% "spark-mllib" % "2.3.1"
 
-
+/*
 mainClass in assembly := some("spark.basic.Flatmap")
 assemblyJarName := "scalaExercice.jar"
 
@@ -33,4 +33,4 @@ assemblyMergeStrategy in assembly := {
     oldStrategy(x)
 }
 
-assemblyOption in assembly := (assemblyOption in assembly).value.copy(includeScala = false)
+assemblyOption in assembly := (assemblyOption in assembly).value.copy(includeScala = false)*/
