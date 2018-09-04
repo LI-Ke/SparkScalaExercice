@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /local/like/ownCloud/Qiwei/play-scala-starter-example/target/scala-2.12/play-scala-starter-example_2.12-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/ApplicationTimer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/services/ApplicationTimer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	services/Counter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/services/Counter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	filters/ExampleFilter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/filters/ExampleFilter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/controllers/HomeController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/CountController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/controllers/CountController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Module.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/Module.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/AsyncController.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /local/like/ownCloud/Qiwei/play-scala-starter-example/app/controllers/AsyncController.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
