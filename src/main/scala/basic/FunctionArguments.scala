@@ -11,4 +11,13 @@ object FunctionArguments extends App{
   val multiplyBy10 = multiplyBy(10)
 
   println(multiplyBy10(50))
+
+  // curry
+  def multiplyBy2(factor: Double)(x : Double) = factor * x
+  val res = multiplyBy2(10)(50)
+  println(res)
+
+  // Partial Applied Function
+  val res2 = multiplyBy2(10)_
+  println(res2(50))
 }
