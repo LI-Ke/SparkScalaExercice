@@ -1,7 +1,7 @@
 package basic
 
-case class Person(var name:String, var age:Int) extends Comparable[Person]{
-  def compareTo(o: Person): Int = {
+case class Pers(var name:String, var age:Int) extends Comparable[Pers]{
+  def compareTo(o: Pers): Int = {
     if (this.age > o.age) 1
     else if (this.age == o.age) 0
     else -1
@@ -23,8 +23,8 @@ object TypeVariableBound {
   def main(args: Array[String]): Unit = {
     val tvb = new TypeVariableBound
     println(tvb.compare("A", "B"))
-    val s = Person("stephen",19)
-    val j = Person("john",20)
+    val s = Pers("stephen",19)
+    val j = Pers("john",20)
     println(tvb.compare(s, j))
     //下面这条语句是不合法的，因为String类型不属于
     //AnyVal类层次结构
