@@ -1,5 +1,7 @@
 package basic
 
+import higherkindedTypes.A
+
 class A
 
 class B extends A {
